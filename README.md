@@ -1,7 +1,7 @@
 # data_files
 An all-in-one repo for storing data files. I hope that the size is not too large.
 
-**NOTE**: The data does not belong to me.
+**NOTE**: Since the data does not belong to me, most of it has been hidden and can be procured from open databases or monte carlo generators.
 
 
 The data is stored in _Releases_ which are **NOT** a working software. Exploited a loophole to upload data files here.
